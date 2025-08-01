@@ -1,0 +1,15 @@
+D:\CursoNET\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.exe
+D:\CursoNET\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.deps.json
+D:\CursoNET\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+D:\CursoNET\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.dll
+D:\CursoNET\Estacionamento\Estacionamento\bin\Debug\net7.0\Estacionamento.pdb
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.AssemblyReference.cache
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.dll
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\refint\Estacionamento.dll
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.pdb
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+D:\CursoNET\Estacionamento\Estacionamento\obj\Debug\net7.0\ref\Estacionamento.dll

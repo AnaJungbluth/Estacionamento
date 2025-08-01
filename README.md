@@ -26,10 +26,6 @@ Sistema desenvolvido para gerenciar as operações de um estacionamento, como co
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2. Acesse a pasta:
-   ```bash
-   cd Estacionamento
-   
-3. Execute o projeto:
+2. Execute o projeto:
    ```bash
    dotnet run
